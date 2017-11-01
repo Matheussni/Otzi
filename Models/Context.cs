@@ -13,6 +13,5 @@ namespace Otzi.Models
         public DbSet<Estudios> Estudios { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Tatuagens> Tatuagens { get; set; }
-
     }
 }
